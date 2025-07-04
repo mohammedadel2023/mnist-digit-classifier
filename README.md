@@ -4,7 +4,7 @@ This project builds a neural network using TensorFlow and Keras to classify hand
 
 ## Features
 - Multi-class classification with 10 output classes (digits 0-9)
-- Achieves over 99% accuracy
+- Achieves over 97% accuracy
 - Visualizes predictions with matplotlib
 
 ## Technologies
@@ -15,13 +15,13 @@ This project builds a neural network using TensorFlow and Keras to classify hand
 
 ## How to Run
 1. Install required libraries:
-```bash
+
 pip install -r requirements.txt
 
-Results
+## Results
 Test accuracy: ~99.15% 
 
-Project Structure
+## Project Structure
 mnist-digit-classifier/
 ├── mnist_model.ipynb        # Main notebook with model training and evaluation
 ├── README.md                # This file
